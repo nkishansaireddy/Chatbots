@@ -47,7 +47,3 @@ To run the ChatBot Assistant:
 - NLTK and Wikipedia API are required for proper functioning.
 - Internet connectivity is necessary to access Wikipedia API.
 - Sentiment analysis provides insight into the emotional tone of user input.
-
-## **Support**
-
-For any questions, suggestions, or issues, please contact at dharmateja238@gmail.com.
